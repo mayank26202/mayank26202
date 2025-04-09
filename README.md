@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React and ML**
 
 - 📫 How to reach me **mayank26202@gmail.com**
 
