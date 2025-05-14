@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayank26202" alt="mayank26202" /></a> </p>
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
